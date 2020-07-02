@@ -1,0 +1,16 @@
+En mi programa se utilizaron 2 patrones 
+-MVC
+-Proxy
+
+
+MVC ya que es muy buena forma de programar y llevar un orden saparando los datos y la logica de la aplicacion 
+y el modulo que es el encargado de gestionar los enventos y las comunicaciones etc
+
+El patron proxy fue alegido porque es me parecio una de las nuevas formas de programar ya que es utlizado en las vida laboral 
+
+en este programa se implementa un proxy para añadir un nivel de seguridad al programa
+
+asi las clase ConnectioDb no tiene comunicacion directa con todas las clases, este solo tiene comunicacion con una clase que es una 
+interfaz en la cual se pide un codigo que si este fuera un caso real ese codigo solo lo tendria los administradores, es como las personas que 
+trabajan en un banco que poseen un aparato que contiene codigos que cambian cada minutos pues esa era la idea de ese aumento de seguridad 
+de manera minorista.
